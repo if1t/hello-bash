@@ -1,1 +1,1 @@
-run ```bash hello-script.sh {argument1}```
+run ```./hello-script {argument1}```
